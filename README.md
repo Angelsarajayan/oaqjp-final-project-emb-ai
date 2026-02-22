@@ -45,5 +45,3 @@ http://localhost:5000
 ---
 ## License
 This project is developed for educational purposes as part of the IBM Developer Skills Network Final Project.
-
-## 📂 Project Structure
